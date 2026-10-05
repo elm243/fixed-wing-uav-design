@@ -74,7 +74,7 @@ Initially the mission starts with connecting the desired payload module. Then th
 
 
 
-The UAV is intended to be able to climb from near sea level to a target operational altitude of 15,000 ft MSL and maintain controlled and effective operation at that altitude. 
+The UAV is intended to be able to climb from near sea level to a target operational altitude of 15,000 ft MSL and maintain controlled and effective operation at that altitude.
 
 
 
@@ -319,6 +319,4 @@ Project success will include:
 \- Clear documentation of design tradeoffs, limitations, and areas requiring further development.
 
 \- Development of a physical prototype if the results of the digital design process support doing so.
-
-
 
